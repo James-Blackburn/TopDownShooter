@@ -45,20 +45,6 @@
             "value": "5",
             "varName": "player_speed",
             "varType": 1
-        },
-        {
-            "id": "7a053f82-fe70-46c7-9c6b-1e6093ff1067",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "5",
-            "varName": "move_x",
-            "varType": 0
         }
     ],
     "solid": false,
