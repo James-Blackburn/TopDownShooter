@@ -1,3 +1,3 @@
-instance_create_depth(x, y, -10000, obj_blood);
+instance_create_depth(x, y, 1, obj_blood);
 instance_destroy();
 

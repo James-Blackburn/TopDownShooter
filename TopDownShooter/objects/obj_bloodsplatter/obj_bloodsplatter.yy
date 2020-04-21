@@ -2,7 +2,7 @@
     "id": "928e7ac9-b8ae-4a2b-9eaa-470ba4783ab8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_blood",
+    "name": "obj_bloodsplatter",
     "eventList": [
         
     ],

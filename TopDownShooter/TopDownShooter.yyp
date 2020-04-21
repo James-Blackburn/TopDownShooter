@@ -202,7 +202,7 @@
             "Key": "928e7ac9-b8ae-4a2b-9eaa-470ba4783ab8",
             "Value": {
                 "id": "6a0046b2-91ca-44b9-8fb0-0c8314b18636",
-                "resourcePath": "objects\\obj_blood\\obj_blood.yy",
+                "resourcePath": "objects\\obj_bloodsplatter\\obj_bloodsplatter.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -274,7 +274,7 @@
             "Key": "ee8dd78a-5f30-40c3-b457-5268b5a2e01a",
             "Value": {
                 "id": "74db0bc5-908d-46a2-ba7e-d7926a6b9657",
-                "resourcePath": "sprites\\spr_blood\\spr_blood.yy",
+                "resourcePath": "sprites\\spr_bloodsplatter\\spr_bloodsplatter.yy",
                 "resourceType": "GMSprite"
             }
         },
