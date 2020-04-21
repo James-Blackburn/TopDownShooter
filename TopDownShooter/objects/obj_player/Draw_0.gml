@@ -1,1 +1,1 @@
-draw_sprite_ext(spr_player, 0, x, y, 1, 1, player_rotation, c_white, 1);
+draw_sprite_ext(spr_player, 0, x, y, 1, 1, player_rotation - 90, c_white, 1);
