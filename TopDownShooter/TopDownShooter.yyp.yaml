@@ -4,6 +4,8 @@ assets:
       - "?spr_bullet | GMSprite | 609352ad-44c9-46fc-858c-807cb4c71afb | 21089dfa-beaf-4cf2-afbe-c4c027f698b8"
       - "?spr_wall | GMSprite | 0a199067-0c57-4531-946c-45f2e0fac426 | 52d7cbcd-64aa-48af-84e7-c971841f5ee6"
       - "?spr_cursor | GMSprite | f15b02f4-87cb-4be6-87e8-40c330c88de4 | 0ea545f5-8479-4c34-b316-5470ebd16673"
+      - "?spr_enemy | GMSprite | 484d1912-5de3-47e3-b452-2748b6433150 | ab0f1bbf-db92-4547-97de-a546e76c8a2c"
+      - "?spr_blood | GMSprite | ee8dd78a-5f30-40c3-b457-5268b5a2e01a | 74db0bc5-908d-46a2-ba7e-d7926a6b9657"
   - "tilesets | GMTileSet | 4cc55630-084a-46f0-a83b-153ea7c972a6 | ddbec5ef-f346-47e7-beff-5857add1378a": 
       - "tilesets\\tileset0\\tileset0.yy | GMTileSet | 9e2d99c1-f0e6-4526-bffc-b492451c9ef2 | b2d0f7cc-231b-4c98-b823-e4e851ac6950"
   - "sounds | GMSound | d593bf83-730e-4762-9d55-3493740dc6a7 | f3b031c4-b65c-4688-b73a-e729d00c4b21": []
@@ -17,6 +19,8 @@ assets:
       - "?obj_player | GMObject | 20b3725d-f054-44f5-8ca6-d94805c54e27 | e4c7c7a1-3f2e-46b3-9511-de9873ee643f"
       - "?obj_wall | GMObject | 44f2e4e5-d0a7-4f7e-8d88-c43d11bdf4aa | 30dd84ae-3748-47ae-8860-349df3f0b8d0"
       - "?obj_bullet | GMObject | 1c022f3f-eeb8-4c79-b46a-e3c83b95d469 | 0179d26f-edea-4157-ba2b-4f25b9e0dfb2"
+      - "?obj_enemy | GMObject | 9024f6c0-29c7-4c07-a464-2660ac3c7a29 | f4cd6b92-c22b-473d-94c0-cce4f7e1fb19"
+      - "?obj_blood | GMObject | 928e7ac9-b8ae-4a2b-9eaa-470ba4783ab8 | 6a0046b2-91ca-44b9-8fb0-0c8314b18636"
   - "rooms | GMRoom | 5f593250-b832-4bfc-a5d1-987c638115f9 | 47e4ac41-1cee-43fe-b244-960b62033a19": 
       - "?room0 | GMRoom | dab74e07-0e3d-43d7-aee9-24998ad7cea0 | 4fc37e3b-d4c1-4515-810d-b34af738cfd1"
   - "notes | GMNotes | 50fce1b2-16b5-468b-a642-30d0044c2a28 | 91c3c02a-9ff1-414e-bb41-6c5a657f93f2": []
