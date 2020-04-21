@@ -7,13 +7,15 @@ assets:
   - "tilesets | GMTileSet | 4cc55630-084a-46f0-a83b-153ea7c972a6 | ddbec5ef-f346-47e7-beff-5857add1378a": []
   - "sounds | GMSound | d593bf83-730e-4762-9d55-3493740dc6a7 | f3b031c4-b65c-4688-b73a-e729d00c4b21": []
   - "paths | GMPath | 569b5f18-9bb6-4429-a401-831edbaa438c | 3ee14285-d9b7-45ea-af5a-2b8ed0181647": []
-  - "scripts | GMScript | 542298d6-61f1-4ef6-9320-45df77fdfffe | 5a1ea697-9e14-41c4-8b4a-89d418b99ff7": []
+  - "scripts | GMScript | 542298d6-61f1-4ef6-9320-45df77fdfffe | 5a1ea697-9e14-41c4-8b4a-89d418b99ff7": 
+      - "?spawn_bullet | GMScript | 66ce8a9c-1b90-466c-a0f8-e64cd092b1f9 | c4950498-aa99-4c76-940a-7ef14dd65d06"
   - "shaders | GMShader | afae0729-5263-40b8-8b27-6805a4233022 | f11ce2f8-1867-47ac-bbe2-4b2cf183134f": []
   - "fonts | GMFont | 074f9922-d6d6-49a5-aa0f-2307cc7cc1ce | b003478e-0eec-4d7b-8349-e429e7e35eab": []
   - "timelines | GMTimeline | 286c2d4c-358d-43d8-b779-2bf2562d7a37 | 794608b9-221f-4376-8663-587393956cf8": []
   - "objects | GMObject | 9e0f2067-15c4-4c39-996f-0eb816492531 | 81e70ebe-4b52-4dae-82bc-c188a8abbadb": 
       - "?obj_player | GMObject | 20b3725d-f054-44f5-8ca6-d94805c54e27 | e4c7c7a1-3f2e-46b3-9511-de9873ee643f"
       - "?obj_wall | GMObject | 44f2e4e5-d0a7-4f7e-8d88-c43d11bdf4aa | 30dd84ae-3748-47ae-8860-349df3f0b8d0"
+      - "?obj_bullet | GMObject | 1c022f3f-eeb8-4c79-b46a-e3c83b95d469 | 0179d26f-edea-4157-ba2b-4f25b9e0dfb2"
   - "rooms | GMRoom | 5f593250-b832-4bfc-a5d1-987c638115f9 | 47e4ac41-1cee-43fe-b244-960b62033a19": 
       - "?room0 | GMRoom | dab74e07-0e3d-43d7-aee9-24998ad7cea0 | 4fc37e3b-d4c1-4515-810d-b34af738cfd1"
   - "notes | GMNotes | 50fce1b2-16b5-468b-a642-30d0044c2a28 | 91c3c02a-9ff1-414e-bb41-6c5a657f93f2": []
