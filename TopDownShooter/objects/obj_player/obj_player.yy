@@ -13,6 +13,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "20b3725d-f054-44f5-8ca6-d94805c54e27"
+        },
+        {
+            "id": "66942290-c88e-4bdc-9153-deefe1a22c5a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "20b3725d-f054-44f5-8ca6-d94805c54e27"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -29,7 +39,36 @@
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
-    "physicsShapePoints": null,
+    "physicsShapePoints": [
+        {
+            "id": "cdfb4821-fb12-4b30-8af4-52775433b5e9",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "id": "9edbe24e-6f47-4a7a-8714-c79c984f1199",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 32,
+            "y": 0
+        },
+        {
+            "id": "23527750-08e0-429e-bd5f-3d6b9e1159ae",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 32,
+            "y": 32
+        },
+        {
+            "id": "5bac0c2b-e0be-4e64-a3a6-b01794a8ca88",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 32
+        }
+    ],
     "physicsStartAwake": true,
     "properties": [
         {
@@ -45,6 +84,20 @@
             "value": "5",
             "varName": "player_speed",
             "varType": 1
+        },
+        {
+            "id": "32158347-2754-4135-8e0a-57cda36f36c5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "player_rotation",
+            "varType": 0
         }
     ],
     "solid": false,
