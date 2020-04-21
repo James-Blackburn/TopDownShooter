@@ -6,6 +6,7 @@ assets:
       - "?spr_cursor | GMSprite | f15b02f4-87cb-4be6-87e8-40c330c88de4 | 0ea545f5-8479-4c34-b316-5470ebd16673"
       - "?spr_enemy | GMSprite | 484d1912-5de3-47e3-b452-2748b6433150 | ab0f1bbf-db92-4547-97de-a546e76c8a2c"
       - "?spr_bloodsplatter | GMSprite | ee8dd78a-5f30-40c3-b457-5268b5a2e01a | 74db0bc5-908d-46a2-ba7e-d7926a6b9657"
+      - "?spr_tileset | GMSprite | d7e92b1c-4843-4387-97b8-a7fa516581a0 | 00653626-a504-496e-a559-4c6809e486cc"
   - "tilesets | GMTileSet | 4cc55630-084a-46f0-a83b-153ea7c972a6 | ddbec5ef-f346-47e7-beff-5857add1378a": 
       - "tilesets\\tileset0\\tileset0.yy | GMTileSet | 9e2d99c1-f0e6-4526-bffc-b492451c9ef2 | b2d0f7cc-231b-4c98-b823-e4e851ac6950"
   - "sounds | GMSound | d593bf83-730e-4762-9d55-3493740dc6a7 | f3b031c4-b65c-4688-b73a-e729d00c4b21": []

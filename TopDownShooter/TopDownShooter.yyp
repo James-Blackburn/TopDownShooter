@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "d7e92b1c-4843-4387-97b8-a7fa516581a0",
+            "Value": {
+                "id": "00653626-a504-496e-a559-4c6809e486cc",
+                "resourcePath": "sprites\\spr_tileset\\spr_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dab74e07-0e3d-43d7-aee9-24998ad7cea0",
             "Value": {
                 "id": "4fc37e3b-d4c1-4515-810d-b34af738cfd1",
