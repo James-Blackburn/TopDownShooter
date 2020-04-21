@@ -26,7 +26,7 @@ if (keyboard_check(ord("S")))
 //colision with wall and edge
 if (!place_meeting(futureX, futureY, obj_wall))
 {
-	if (futureX - 16 > 0 and futureX + 16 < 1024 and futureY + 16 < 768 and futureY - 16 > 0)
+	if (futureX - 16 > 0 and futureX + 16 < room_width and futureY + 16 < room_height and futureY - 16 > 0)
 	{
 		x = futureX;
 		y = futureY;
