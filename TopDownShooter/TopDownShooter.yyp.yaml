@@ -1,0 +1,81 @@
+assets: 
+  - "sprites | GMSprite | 535faea2-0882-423c-b24c-5637ac693e11 | a492bd33-f459-47b1-80de-dcc10d366358": 
+      - "?spr_player | GMSprite | 260c9be9-df6f-490e-953a-d1f2c187ded0 | 30d46c4a-b621-43d6-9c1f-f11b4c77c3e6"
+      - "?spr_bullet | GMSprite | 609352ad-44c9-46fc-858c-807cb4c71afb | 21089dfa-beaf-4cf2-afbe-c4c027f698b8"
+      - "?testSprite | GMSprite | df275702-72cc-4f06-ad33-09a1dead9c85 | 95640e1e-1109-40a2-a632-21bb1edb64c6"
+  - "tilesets | GMTileSet | 4cc55630-084a-46f0-a83b-153ea7c972a6 | ddbec5ef-f346-47e7-beff-5857add1378a": []
+  - "sounds | GMSound | d593bf83-730e-4762-9d55-3493740dc6a7 | f3b031c4-b65c-4688-b73a-e729d00c4b21": []
+  - "paths | GMPath | 569b5f18-9bb6-4429-a401-831edbaa438c | 3ee14285-d9b7-45ea-af5a-2b8ed0181647": []
+  - "scripts | GMScript | 542298d6-61f1-4ef6-9320-45df77fdfffe | 5a1ea697-9e14-41c4-8b4a-89d418b99ff7": []
+  - "shaders | GMShader | afae0729-5263-40b8-8b27-6805a4233022 | f11ce2f8-1867-47ac-bbe2-4b2cf183134f": []
+  - "fonts | GMFont | 074f9922-d6d6-49a5-aa0f-2307cc7cc1ce | b003478e-0eec-4d7b-8349-e429e7e35eab": []
+  - "timelines | GMTimeline | 286c2d4c-358d-43d8-b779-2bf2562d7a37 | 794608b9-221f-4376-8663-587393956cf8": []
+  - "objects | GMObject | 9e0f2067-15c4-4c39-996f-0eb816492531 | 81e70ebe-4b52-4dae-82bc-c188a8abbadb": 
+      - "?obj_player | GMObject | 20b3725d-f054-44f5-8ca6-d94805c54e27 | e4c7c7a1-3f2e-46b3-9511-de9873ee643f"
+  - "rooms | GMRoom | 5f593250-b832-4bfc-a5d1-987c638115f9 | 47e4ac41-1cee-43fe-b244-960b62033a19": 
+      - "?room0 | GMRoom | dab74e07-0e3d-43d7-aee9-24998ad7cea0 | 4fc37e3b-d4c1-4515-810d-b34af738cfd1"
+  - "notes | GMNotes | 50fce1b2-16b5-468b-a642-30d0044c2a28 | 91c3c02a-9ff1-414e-bb41-6c5a657f93f2": []
+  - "datafiles | GMIncludedFile | eb4c28c4-cf44-4ad9-83df-9e8edc332c10 | 14bf898e-4692-485e-905d-df0200f62b5f": []
+  - "extensions | GMExtension | 5f7f900f-89ef-4fe9-87ec-48d683d72c40 | b7f10200-9b86-41ff-afc6-b68e2baec94e": []
+  - "options | GMOptions | 34f14f19-eb60-4130-9f72-0b4f39e81c0a | fb71f5e6-51cc-4f7c-b339-95116db7bcaa": 
+      - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 36ee34cb-ab13-43ec-b944-f3f5ab618c27"
+      - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | b3382174-66f4-434e-98cf-d02c9b675f4c"
+      - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | f7b96ccd-6198-458b-a0b1-dd389d25b85a"
+  - "configs | GMConfig | 4d26b128-6a3c-4ddc-a8db-97e96f4f211c | 7e1d85d7-5806-4254-aafd-1d3f3d56e8ca": []
+projectExtras: 
+  IsDnDProject: false
+  configs: []
+  id: "edea55a5-909f-43d8-9631-c503811fab7b"
+  modelName: GMProject
+  mvc: "1.0"
+  option_ecma: false
+  parentProject: 
+    alteredResources: 
+      - Key: "ed6a955d-5826-4f98-a450-10b414266c27"
+        Value: 
+          configDeltas: 
+            - inherited
+          id: "49f63e10-dfb7-4a64-ba05-6f77a0045227"
+          resourcePath: "options\\main\\options_main.yy"
+          resourceType: GMMainOptions
+    hiddenResources: []
+    id: "3140642f-e272-4061-ae71-e163f7b8f1c0"
+    modelName: GMProjectParent
+    mvc: "1.0"
+    projectPath: "${base_project}"
+  tutorial: ""
+viewExtras: 
+  "074f9922-d6d6-49a5-aa0f-2307cc7cc1ce": 
+    localisedFolderName: ResourceTree_Fonts
+  "286c2d4c-358d-43d8-b779-2bf2562d7a37": 
+    localisedFolderName: ResourceTree_Timelines
+  "34f14f19-eb60-4130-9f72-0b4f39e81c0a": 
+    localisedFolderName: ResourceTree_Options
+  "4cc55630-084a-46f0-a83b-153ea7c972a6": 
+    localisedFolderName: ResourceTree_Tilesets
+  "4d26b128-6a3c-4ddc-a8db-97e96f4f211c": 
+    localisedFolderName: ResourceTree_Configs
+  "50fce1b2-16b5-468b-a642-30d0044c2a28": 
+    localisedFolderName: ResourceTree_Notes
+  "535faea2-0882-423c-b24c-5637ac693e11": 
+    localisedFolderName: ResourceTree_Sprites
+  "542298d6-61f1-4ef6-9320-45df77fdfffe": 
+    localisedFolderName: ResourceTree_Scripts
+  "569b5f18-9bb6-4429-a401-831edbaa438c": 
+    localisedFolderName: ResourceTree_Paths
+  "5f593250-b832-4bfc-a5d1-987c638115f9": 
+    localisedFolderName: ResourceTree_Rooms
+  "5f7f900f-89ef-4fe9-87ec-48d683d72c40": 
+    localisedFolderName: ResourceTree_Extensions
+  "9e0f2067-15c4-4c39-996f-0eb816492531": 
+    localisedFolderName: ResourceTree_Objects
+  "afae0729-5263-40b8-8b27-6805a4233022": 
+    localisedFolderName: ResourceTree_Shaders
+  "d593bf83-730e-4762-9d55-3493740dc6a7": 
+    localisedFolderName: ResourceTree_Sounds
+  "eb4c28c4-cf44-4ad9-83df-9e8edc332c10": 
+    localisedFolderName: ResourceTree_IncludedFiles
+viewRoot: 
+  id: "84064924-ec31-423e-b711-4ae32a4ea004"
+  mvc: "1.1"
+  resourceID: "47738120-17a1-4d8d-97c1-206b76c9095d"
