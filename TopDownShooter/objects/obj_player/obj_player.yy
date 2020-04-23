@@ -15,16 +15,6 @@
             "m_owner": "20b3725d-f054-44f5-8ca6-d94805c54e27"
         },
         {
-            "id": "66942290-c88e-4bdc-9153-deefe1a22c5a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "20b3725d-f054-44f5-8ca6-d94805c54e27"
-        },
-        {
             "id": "805da092-74cf-436a-ab91-e7a446d0efaa",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -104,20 +94,6 @@
             "value": "5",
             "varName": "player_speed",
             "varType": 1
-        },
-        {
-            "id": "32158347-2754-4135-8e0a-57cda36f36c5",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "player_rotation",
-            "varType": 0
         }
     ],
     "solid": false,
